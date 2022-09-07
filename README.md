@@ -1,2 +1,2 @@
-# ineuron-assignment
+# ineuron-python_assignment
 python 
